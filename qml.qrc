@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FramelessWindow/CustomMouseArea.qml</file>
+        <file>FramelessWindow/FramelessWindow.qml</file>
+        <file>FramelessWindow/TitleBar.qml</file>
+        <file>Font/Font Awesome 5 Free-Solid-900.otf</file>
+        <file>images/logo.ico</file>
+        <file>images/logo.png</file>
+        <file>ContentWindow/ContentWindow.qml</file>
+        <file>Font/Font Awesome 5 Free-Regular-400.otf</file>
+    </qresource>
+</RCC>
